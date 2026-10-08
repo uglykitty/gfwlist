@@ -1,0 +1,2 @@
+! 自定义规则，每行一条 GFWList 规则，由 build-publish.sh 合并进 list.txt
+||opencode.ai
