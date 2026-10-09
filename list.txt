@@ -4522,4 +4522,7 @@ iipdigital.usembassy.gov
 @@||cdn-china.ampproject.org
 @@||redirector.gvt1.com
 !################Whitelist End##################
+!###############Custom List Start###############
+||opencode.ai
+!################Custom List End################
 !---------------------EOF-----------------------
